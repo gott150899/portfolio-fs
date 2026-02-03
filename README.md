@@ -10,4 +10,4 @@
 ## 📩 Contact  
 - Email: gott150899@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ty-go-tran-644666248/
-- Portfolio: https://portfoliov2-fe.vercel.app/
+- Portfolio: https://portfoliov2-fs.vercel.app/
